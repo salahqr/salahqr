@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Salah Qaraeen | Backend Developer  
 
-<!--
-**salahqr/salahqr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Computer Science Student** @ AL al-BAYT UNIVERSITY
+🔍 **Seeking:** Backend Engineering Internship (2024)  
 
-Here are some ideas to get you started:
+### 🔧 **Tech Stack**  
+**Backend:** Node.js | Express.js | REST APIs | WebSockets  
+**Languages:** JavaScript/TypeScript | Python | Java | C++  
+**Databases:** MongoDB | PostgreSQL | Redis  
+**Tools:** Git | Docker | Postman | Swagger  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 **Featured Projects**  
+1. **[Ecommerce REST API](https://github.com/salahqr/ecommerce-express-api)**  
+   • Built with Express.js, TypeScript, PostgreSQL, JWT Auth  
+   • Implemented Redis caching for 30% faster responses  
+   • Integrated Stripe payment endpoints  
+
+📫 **Let’s connect:**  
+[LinkedIn](https://www.linkedin.com/in/salah-qaraeen-068975194/) | [Portfolio](your-portfolio-link)  
