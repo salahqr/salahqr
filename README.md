@@ -21,4 +21,4 @@
 
 
 📫 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/salah-qaraeen-068975194/) | [Portfolio](your-portfolio-link)  
+[LinkedIn](https://www.linkedin.com/in/salah-qaraeen-068975194/)
