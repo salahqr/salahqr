@@ -1,24 +1,80 @@
-# 👋 Hi, I'm Salah Qaraeen | Backend Developer  
+# 👋 Hi, I'm Salah Qaraeen | Backend Engineer  
 
-🚀 **Computer Science Student** @ AL al-BAYT UNIVERSITY
+🚀 Computer Science Graduate passionate about building **scalable backend systems, distributed architectures, and high-performance APIs**.
 
-### 🔧 **Tech Stack**  
-**Backend:** Node.js | Express.js | REST APIs | WebSockets  
-**Languages:** JavaScript/TypeScript | Python | Java | C++  
-**Databases:** MongoDB | PostgreSQL | Redis  
-**Tools:** Git | Docker | Postman  
+I focus on designing reliable data pipelines, optimizing database performance, and building production-ready backend services.
 
-### 🛠 **Featured Projects**  
-### 1. **[Ecommerce REST API](https://github.com/salahqr/ecommerce-express-api)**  
-   ✔  Built with Express.js, TypeScript, PostgreSQL, JWT Auth  
-   ✔  Implemented Redis caching for 30% faster responses  
-   ✔  Integrated Stripe payment endpoints
+---
 
-### 2. **[Python Code Analyzer](https://github.com/salahqr/Python-Code-Security-Analyzer)**  
-   ✔ Static analysis tool for security vulnerabilities  
-   ✔ Detects SQLi, XSS, hardcoded secrets  
-   ✔ CLI interface with JSON reporting  
+## 🔧 Tech Stack  
+
+### Backend & APIs
+- Spring Boot
+- Node.js
+- Express.js
+- REST APIs
+- WebSockets
+
+### Distributed Systems & Streaming
+- Apache Kafka
+- Event-Driven Architecture
+
+### Languages
+- Java
+- TypeScript
+- JavaScript
+- Python
+- C++
+
+### Databases & Caching
+- PostgreSQL
+- ClickHouse
+- Redis
+- MongoDB
+
+### DevOps & Tools
+- Docker
+- Git
+- JWT
+- Postman
+
+---
+
+## 🛠 Featured Projects  
+
+### 🔹 [Real-Time Distributed Analytics Pipeline](https://github.com/salahqr/Real-Time-Distributed-Analytics-Dashboard-Project)
+- Built event-driven data pipeline processing 10,000+ events per minute  
+- Designed optimized ClickHouse schemas & materialized views (40% query latency reduction)  
+- Developed Spring Boot APIs with average response time under 120ms  
+- Containerized services using Docker for reproducible deployment  
+
+---
+
+### 🔹 [E-commerce Backend API](https://github.com/salahqr/ecommerce-express-api)
+- Developed REST API exposing 40+ endpoints using Express.js & TypeScript  
+- Implemented JWT authentication and role-based access control  
+- Integrated Redis caching reducing database load by ~50%  
+- Integrated Stripe payment workflow with secure webhook handling  
+- Containerized application using Docker  
+
+---
+
+### 🔹 [Python Code Security Analyzer](https://github.com/salahqr/Python-Code-Security-Analyzer)
+- Built static analysis tool to detect common security vulnerabilities  
+- Detects SQL injection patterns, XSS risks, and hardcoded secrets  
+- CLI-based interface with structured JSON reporting  
+
+---
 
 
-📫 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/salah-qaraeen-068975194/)
+### 🔹 [Python Code Security Analyzer](https://github.com/salahqr/Python-Code-Security-Analyzer)
+- Built static analysis tool to detect common security vulnerabilities  
+- Detects SQL injection patterns, XSS risks, and hardcoded secrets  
+- CLI-based interface with structured JSON reporting  
+
+---
+
+
+## 📫 Let’s Connect  
+
+- LinkedIn: https://www.linkedin.com/in/salah-qaraeen-068975194/
