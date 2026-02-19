@@ -1,80 +1,95 @@
-# 👋 Hi, I'm Salah Qaraeen | Backend Engineer  
+# 👋 Hi, I'm Salah Qaraeen  
+### Backend Engineer | Distributed Systems | High-Performance APIs  
 
-🚀 Computer Science Graduate passionate about building **scalable backend systems, distributed architectures, and high-performance APIs**.
+🚀 Backend engineer focused on building scalable systems, event-driven architectures, and production-ready APIs.
 
-I focus on designing reliable data pipelines, optimizing database performance, and building production-ready backend services.
+I specialize in designing reliable data pipelines, optimizing databases for high throughput, and developing low-latency backend services.
 
 ---
 
-## 🔧 Tech Stack  
+## 🧠 Core Expertise
 
-### Backend & APIs
-- Spring Boot
-- Node.js
-- Express.js
-- REST APIs
-- WebSockets
+- Scalable Backend Architecture
+- Distributed & Event-Driven Systems
+- High-Performance API Design
+- Database Optimization & Query Tuning
+- Real-Time Data Processing
 
-### Distributed Systems & Streaming
-- Apache Kafka
-- Event-Driven Architecture
+---
+
+## 🔧 Tech Stack
+
+### Backend
+Spring Boot • Node.js • Express.js • REST APIs • WebSockets
+
+### Distributed Systems
+Apache Kafka • Event-Driven Architecture • Streaming Pipelines
+
+### Databases
+PostgreSQL • ClickHouse • Redis • MongoDB
 
 ### Languages
-- Java
-- TypeScript
-- JavaScript
-- Python
-- C++
-
-### Databases & Caching
-- PostgreSQL
-- ClickHouse
-- Redis
-- MongoDB
+Java • TypeScript • JavaScript • Python • C++
 
 ### DevOps & Tools
-- Docker
-- Git
-- JWT
-- Postman
+Docker • Git • JWT • Postman
 
 ---
 
-## 🛠 Featured Projects  
+# 🛠 Featured Engineering Projects
 
-### 🔹 [Real-Time Distributed Analytics Pipeline](https://github.com/salahqr/Real-Time-Distributed-Analytics-Dashboard-Project)
-- Built event-driven data pipeline processing 10,000+ events per minute  
-- Designed optimized ClickHouse schemas & materialized views (40% query latency reduction)  
-- Developed Spring Boot APIs with average response time under 120ms  
-- Containerized services using Docker for reproducible deployment  
+## 🔹 Real-Time Distributed Analytics Pipeline
+🔗 https://github.com/salahqr/Real-Time-Distributed-Analytics-Dashboard-Project
 
----
+High-throughput event processing system designed for real-time analytics.
 
-### 🔹 [E-commerce Backend API](https://github.com/salahqr/ecommerce-express-api)
-- Developed REST API exposing 40+ endpoints using Express.js & TypeScript  
-- Implemented JWT authentication and role-based access control  
-- Integrated Redis caching reducing database load by ~50%  
-- Integrated Stripe payment workflow with secure webhook handling  
-- Containerized application using Docker  
+**Highlights:**
+- Processes 10,000+ events per minute using Kafka
+- Optimized ClickHouse schema & materialized views
+- Reduced query latency by 40%
+- Spring Boot APIs with average response time <120ms
+- Fully containerized with Docker
 
----
-
-### 🔹 [Python Code Security Analyzer](https://github.com/salahqr/Python-Code-Security-Analyzer)
-- Built static analysis tool to detect common security vulnerabilities  
-- Detects SQL injection patterns, XSS risks, and hardcoded secrets  
-- CLI-based interface with structured JSON reporting  
+**Architecture Focus:**
+Event Producers → Kafka → Stream Processing → ClickHouse → REST API Layer
 
 ---
 
+## 🔹 E-commerce Backend API
+🔗 https://github.com/salahqr/ecommerce-express-api
 
-### 🔹 [Python Code Security Analyzer](https://github.com/salahqr/Python-Code-Security-Analyzer)
-- Built static analysis tool to detect common security vulnerabilities  
-- Detects SQL injection patterns, XSS risks, and hardcoded secrets  
-- CLI-based interface with structured JSON reporting  
+Production-ready RESTful backend built with Express & TypeScript.
+
+**Highlights:**
+- 40+ REST endpoints
+- JWT authentication + role-based access control
+- Redis caching (reduced DB load by ~50%)
+- Secure Stripe payment integration
+- Dockerized deployment
 
 ---
 
+## 🔹 Python Code Security Analyzer
+🔗 https://github.com/salahqr/Python-Code-Security-Analyzer
 
-## 📫 Let’s Connect  
+Static analysis tool for detecting security vulnerabilities in Python code.
 
-- LinkedIn: https://www.linkedin.com/in/salah-qaraeen-068975194/
+**Highlights:**
+- Detects SQL injection patterns, XSS risks, hardcoded secrets
+- CLI-based tool with structured JSON output
+- Designed for extensibility & rule-based scanning
+
+---
+
+# 📈 What I Care About
+
+- Writing clean, maintainable backend code
+- Designing systems that scale
+- Performance optimization
+- Production-grade reliability
+
+---
+
+# 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/salah-qaraeen-068975194/
