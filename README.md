@@ -32,7 +32,7 @@ PostgreSQL • ClickHouse • Redis • MongoDB
 Java • TypeScript • JavaScript • Python • C++
 
 ### DevOps & Tools
-Docker • Git • JWT • Postman
+Docker • Git • JWT • Postman • Linux 
 
 ---
 
